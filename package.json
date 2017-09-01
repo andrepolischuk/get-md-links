@@ -1,6 +1,6 @@
 {
   "name": "get-md-links",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Get links from markdown article",
   "main": "dist/index.js",
   "jsnext:main": "index.js",
